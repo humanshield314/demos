@@ -1,3 +1,6 @@
+# Learn React
+Just a place to learn react.  Using [handsonreact](https://handsonreact.com/) and vite to learn some of the basics.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
